@@ -14,7 +14,7 @@ I'm a doctor specializing in Chronic Fatigue Medicine with a deep interest in **
 - 🤝 Passionate about reproducible research and open science
 - 💡 Advocate for evidence-based medicine through rigorous analysis
 - 🌱 Continuously expanding my data science skillset
-- 💪 Dedicated to advancing understanding of chronic fatigue and related conditions
+
 
 ---
 
